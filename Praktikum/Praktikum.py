@@ -1,8 +1,3 @@
-# Pertemuan 12
-# Praktikum
-
-
-```python
 class DaftarNilaiMahasiswa:
     def __init__(self):
         self.daftar_nilai = {}  # Membuat dictionary untuk menyimpan nilai mahasiswa
@@ -45,7 +40,4 @@ daftar_nilai_mahasiswa.tampilkan()
 
 daftar_nilai_mahasiswa.ubah("Pikii", 95)
 daftar_nilai_mahasiswa.tampilkan()
-```
 
-## Hasil Program
-![](Screenshot/Screenshot%20(103).png)
